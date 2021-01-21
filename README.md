@@ -1,3 +1,3 @@
 # INFORMATION-EMBEDDER
-This Project is based on stegnography.It is used to embed data into images
+This Project is based on steganography.It is used to embed data into images
 
